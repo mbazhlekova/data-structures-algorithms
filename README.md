@@ -6,10 +6,10 @@ Implemeting data structures and common algorithms in JavaScript
 
 ## Stack
 
-## Queues
+## Queue
 
 ## Hash Table
 
-## Bindary Search Tree
+## Binary Search Tree
 
 ## Trie
