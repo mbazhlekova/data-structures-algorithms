@@ -5,7 +5,7 @@ Implemeting data structures and common algorithms in JavaScript
 ## Data Structures
 
 1. [Linked List](./LinkedList/LinkedList.md)
-2. Stack
+2. [Stack](./Stack/Stack.md)
 3. Queue
 4. Hash Table
 5. Binary Search Tree
