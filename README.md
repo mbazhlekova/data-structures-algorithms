@@ -1,6 +1,6 @@
-# JavaScript Data Structures
+# Data Structures and Algorithms
 
-Implemeting data structures and common algorithms in JavaScript
+Implemeting common data structures and algorithms in different languages, starting with JavaScript
 
 ## Data Structures
 
