@@ -15,10 +15,36 @@ Implemeting common data structures and algorithms in different languages, starti
 
 ### Sorting & Searching
 
+#### Sort
+
 1. Quick Sort
 2. Radix Sort
 3. Merge Sort
 4. Bubble Sort
 5. Selection Sort
-6. Binary Search
-7. Linear Search
+
+#### Search
+
+1. Binary Search
+2. Linear Search
+
+### Graphs
+
+1. Travelling Salesman Problem
+
+#### Graph Traversals
+
+1. Breadth-first traversal
+2. Depth-first traversal
+
+#### Minimum Spanning Tree 
+
+1. Prim's Algorithm
+2. Kruskal's Algorithm
+
+#### Shortest Path
+
+1. Dijkstra's Algorithm
+
+
+
