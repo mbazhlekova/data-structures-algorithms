@@ -9,7 +9,7 @@ Implemeting common data structures and algorithms in different languages, starti
 3. [Queue](./DataStructures/Queue/Queue.md)
 4. [Binary Search Tree](./DataStructures/BinarySearchTree/BinarySearchTree.md)
 5. [Hash Table](./DataStructures/HashTable/HashTable.md)
-6. Trie
+6. [Trie](./DataStructures/Trie/Trie.md)
 
 ## Algorithms
 
