@@ -35,7 +35,7 @@ Implemeting common data structures and algorithms in different languages, starti
 #### Graph Traversals
 
 1. Breadth-first traversal
-2. Depth-first traversal
+2. [Depth-first traversal](./Graphs/BreadthFirstSearch.md)
 
 #### Minimum Spanning Tree 
 
